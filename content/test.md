@@ -4,11 +4,6 @@ draft = true
 layout = "blocks"
 title = "test"
 [[page_sections]]
-block = "header-1"
-logo = ""
-navigation = []
-template = "navigation-header"
-[[page_sections]]
 block = "header-2"
 logo = ""
 navigation = []
@@ -31,6 +26,11 @@ open_in_new_tab = false
 [page_sections.image]
 alt_text = ""
 image = ""
+[[page_sections]]
+block = "header-1"
+logo = ""
+navigation = []
+template = "navigation-header"
 [[page_sections]]
 block = "footer-1"
 content = ""
