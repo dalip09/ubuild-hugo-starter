@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   - link_url: "/test"
     link_text: Features
-  - link_url: "#"
+  - link_url: "/rto-resrouces"
     link_text: Pricing
   - link_url: "#"
     link_text: Team
