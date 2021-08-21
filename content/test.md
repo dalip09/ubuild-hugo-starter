@@ -20,5 +20,17 @@ image = "/uploads/2018/06/21/forestry-symbol.svg"
 block = "footer-1"
 content = "some test in here<img src=\"/uploads/2018/06/21/drone-photo.jpeg\">"
 template = "simple-footer"
+[[page_sections]]
+block = "footer-2"
+col_2 = "wrewrewr"
+col_3 = "2222"
+col_4 = "333"
+image = "/uploads/2018/06/21/forestry-symbol.svg"
+template = "4-column-footer"
+[[page_sections]]
+block = "one-column-1"
+content = ""
+headline = ""
+template = "1-column-text"
 
 +++
