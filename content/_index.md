@@ -13,8 +13,8 @@ page_sections:
     link_text: Features
   - link_url: "/rto-software"
     link_text: RTO software
-  - link_url: "#"
-    link_text: Team
+  - link_url: "/all-blocks"
+    link_text: all blocks
   cta:
     link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     link_text: Download
