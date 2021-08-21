@@ -1,4 +1,13 @@
 ---
 label: pricing-table
 hide_body: false
-fields: []
+fields:
+- name: pricing
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: html-blocks
+  label: pricing
