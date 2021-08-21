@@ -29,8 +29,8 @@ image = "/uploads/2018/06/21/forestry-symbol.svg"
 template = "4-column-footer"
 [[page_sections]]
 block = "one-column-1"
-content = ""
-headline = ""
+content = "aaaa"
+headline = "1 column test"
 template = "1-column-text"
 
 +++
