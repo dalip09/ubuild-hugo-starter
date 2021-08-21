@@ -34,4 +34,5 @@ fields:
   - 4-column-footer
 pages:
 - content/all-available-blocks.md
+- content/rto-software/_index.html
 - content/test.md
