@@ -1,7 +1,7 @@
 +++
 date = 2018-06-28T17:17:55Z
 layout = "blocks"
-title = "All Available Blocks."
+title = "all-blcoks"
 [[page_sections]]
 block = "header-1"
 logo = "/uploads/2018/06/21/forestry-full.svg"
@@ -9,9 +9,11 @@ template = "navigation-header"
 [[page_sections.navigation]]
 link_text = "Home"
 link_url = "/"
+open_in_new_tab = false
 [[page_sections.navigation]]
 link_text = "About"
 link_url = "/"
+open_in_new_tab = false
 [[page_sections.navigation]]
 link_text = "GitHub"
 link_url = "https://github.com"
@@ -23,12 +25,15 @@ template = "navigation-header-w-button"
 [page_sections.cta]
 link_text = "Download?"
 link_url = "#"
+open_in_new_tab = false
 [[page_sections.navigation]]
 link_text = "Home"
 link_url = "/"
+open_in_new_tab = false
 [[page_sections.navigation]]
 link_text = "Contact"
 link_url = "#"
+open_in_new_tab = false
 [[page_sections.navigation]]
 link_text = "Hugo Docs"
 link_url = "http://gohugo.io/documentation/"
@@ -106,6 +111,7 @@ template = "full-width-media-element"
 block = "media-2"
 template = "2-column-media-element"
 [page_sections.image_1]
+caption = ""
 image = "/uploads/2018/06/21/drone-photo.jpeg"
 [page_sections.image_2]
 caption = "Captions are optional"
