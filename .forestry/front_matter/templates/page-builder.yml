@@ -33,6 +33,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- content/_index.html
 - content/all-available-blocks.md
 - content/test.md
