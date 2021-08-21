@@ -32,6 +32,7 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+  - pricing-table
 pages:
 - content/all-available-blocks.md
 - content/rto-software/_index.html
