@@ -10,7 +10,7 @@ page_sections:
   - link_url: "/"
     link_text: Home
   - link_url: "/test"
-    link_text: Features
+    link_text: test
   - link_url: "/rto-software"
     link_text: RTO software
   - link_url: "/all-blocks"
